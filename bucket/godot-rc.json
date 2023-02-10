@@ -3,7 +3,7 @@
     "description": "A feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.",
     "homepage": "https://godotengine.org/",
     "license": "MIT",
-    "notes": "[NOTICE]: You are using rhylso's scoop bucket for installing Godot Beta",
+    "notes": "[NOTICE]: You are using rhylso's scoop bucket.",
     "architecture": {
         "64bit": {
             "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc1/Godot_v4.0-rc1_win64.exe.zip",
